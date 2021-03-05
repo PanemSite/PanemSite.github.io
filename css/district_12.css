@@ -1,0 +1,19 @@
+.bodynav {
+  background-color: #03f8fc;
+  margin-bottom: 50px;
+}
+
+.bodynav ul li {
+  display: inline-block;
+}
+
+.bodynav ul li a {
+  margin: 0px 30px;
+  color: #293d3d;
+  text-decoration: none;
+  font-size: 200%;
+}
+
+.bodynav ul li a:active {
+  font-size: 210%;
+}
